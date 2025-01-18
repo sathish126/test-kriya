@@ -23,9 +23,9 @@ const Home = () => {
   };
 
   return (
-    <div className="p-40">
+    <div className="p-14">
       {/* Title with gradient effect on "Calendar" */}
-      <h1 className="text-5xl font-bold mb-9">
+      <h1 className="text-5xl font-bold mb-1">
         Mark Your <span className="bg-gradient-to-r from-pink-400 to-purple-500 text-transparent bg-clip-text">Calendar!</span>
       </h1>
       
